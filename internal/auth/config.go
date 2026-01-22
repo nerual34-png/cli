@@ -17,7 +17,7 @@ type Config struct {
 }
 
 // DefaultConvexURL is the default Convex deployment URL
-const DefaultConvexURL = "https://outstanding-octopus-752.convex.cloud"
+const DefaultConvexURL = "https://flippant-okapi-339.convex.cloud"
 
 // ErrNotLoggedIn indicates the user hasn't set up their profile
 var ErrNotLoggedIn = errors.New("not logged in - run 'grind' to set up")
