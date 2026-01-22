@@ -1,0 +1,13 @@
+# Binaries
+grind
+dist/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env.local
+.env
+
+# OS
+.DS_Store
